@@ -1,0 +1,3 @@
+Vue.filter('',function (val) {
+
+})
