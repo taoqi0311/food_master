@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+![image](https://github.com/taoqi0311/food_master/blob/master/src/img/food_master.png)
+
 ## Build Setup
 
 ``` bash
